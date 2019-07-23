@@ -2,13 +2,13 @@
     {
         "name":"Bruno Soares Alves",
         "accountType": "Conta corrente",
-        "branchCode": "7752"
+        "branchCode": "7752",
         "accountNumber": "07390-3"
     },
     {
         "name":"Nathalia de Lima Falcão",
         "accountType": "Conta poupança",
-        "branchCode": "7752"
+        "branchCode": "7752",
         "accountNumber": "07390-3/500"
     }
 ]
