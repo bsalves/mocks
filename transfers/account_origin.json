@@ -1,10 +1,10 @@
 [
     {
         "accountType": "Conta corrente",
-        "ammount": "R$ 123,00"
+        "amount": "R$ 123,00"
     },
     {
         "accountType": "Conta poupança",
-        "ammount": "R$ 15.000,00"
+        "amount": "R$ 15.000,00"
     }
 ]
