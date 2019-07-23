@@ -1,12 +1,10 @@
 [
     {
         "accountType": "Conta corrente",
-        "branchCode": "7752"
-        "accountNumber": "07390-3"
+        "ammount": "R$ 123,00"
     },
     {
         "accountType": "Conta poupança",
-        "branchCode": "7752"
-        "accountNumber": "07390-3/500"
+        "ammount": "R$ 15.000,00"
     }
 ]
