@@ -12,5 +12,19 @@
         "accountType": "Conta corrente",
         "branchCode": "0102",
         "accountNumber": "02242-0"
+    },
+    {
+        "name":"Meylin de Lima Alves",
+        "bankName": "iti",
+        "accountType": "Conta corrente",
+        "branchCode": "0500",
+        "accountNumber": "07196-9"
+    },
+    {
+        "name":"Palmira de Lima Alves",
+        "bankName": "Itaú",
+        "accountType": "Conta corrente",
+        "branchCode": "7752",
+        "accountNumber": "07196-9"
     }
 ]
